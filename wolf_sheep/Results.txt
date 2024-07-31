@@ -1,0 +1,19 @@
+Initial number deer: 10
+Initial number grown tree: 11550
+Initial number juvenile tree: 25000
+Initial population control: 0.0006839
+Initial deer food req: 1345
+Dimensions: 406x406
+
+Final number deer: 18
+Final number grown tree: 31459
+Final number juvenile tree: 49
+
+Tree Natural Death: 507
+Tree Antler Death: 2605
+Tree Eaten Death: 18064
+
+Population Control Deaths: 10
+Deer Energy Death: 0
+Fawn Mortality Death: 11
+Deer Mortality Death: 3
